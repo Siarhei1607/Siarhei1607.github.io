@@ -36,7 +36,7 @@
         {
             "image" : "images/projects/verstka.png",
             "title": "Transportation website layout",
-            "bodyText": "- Adaptability to different user screens.",
+            "bodyText": "- Adaptability to different user screens.\n - Both mobile and desktop.\n - Based on figma design.",
             "links": [
                 {
                     "text": "GitHub",
